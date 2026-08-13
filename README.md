@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikolay</a> 
+# Hi there, I'm [Nikolay](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
 - 🔭 I’m currently diving deep into Machine Learning and Data Analysis
 
