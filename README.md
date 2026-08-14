@@ -1,4 +1,4 @@
-# Hi there, I'm Nikolay
+# Hi there, I'm Nikolai
 
 - 🔭 I’m currently diving deep into Machine Learning and Data Analysis
 
