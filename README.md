@@ -6,5 +6,5 @@
 - **Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 - **Learning:** SQL, PyTorch
   
-- 📫 How to reach me: [tg: @Piska_12] | [email: nnepipatvink@gmail.com]
+- 📫 How to reach me: [tg: @nu11sou1] | [email: nnepipatvink@gmail.com]
 
